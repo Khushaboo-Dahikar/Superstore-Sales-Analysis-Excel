@@ -42,4 +42,9 @@ This project successfully improved the understanding of sales performance across
 through insightful visualizations and interactive features, the analysis helpful for stakeholders to make informed, data-driven decisions. 
 The final report offered a flexible and user-friendly interface, allowing business users to explore key metrics and trends efficiently. 
 Overall, the project contributed to enhancing operational strategies and optimizing sales efforts.
+
+### Author
+
+    Khushaboo Dahikar
+    Certified Data Analyst | Skilled in Power BI, SQL, Python, Machine Learning and Excel
     
