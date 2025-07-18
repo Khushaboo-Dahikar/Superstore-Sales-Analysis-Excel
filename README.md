@@ -6,7 +6,7 @@ delivers clean, interactive, and insightful reports to support the data-driven d
 
 ### Dataset Description:
 
-**Records**: ~2000+ entries
+**Records**: ~10,000 entries
 
 **Columns include**: Row ID,	Order ID,	Order Date,	Ship Date, Ship Mode, 	Customer ID, 	Customer Name, 	Segment,  Section	City, 	State	Country,	Region, 
 Product ID, Category, 	Sub-Category, 	Product Name, 	 Sales 	Quantity, 	Discount,	 Profit.
